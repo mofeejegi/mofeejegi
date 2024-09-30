@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Mofe Ejegi
-## My Specialties are Kotlin, Android, KMP and Compose 
-##Building mobile apps since 2014 🚀
+### My Specialties are Kotlin, Android, KMP and Compose 
+### Building mobile apps since 2014 🚀
 
 <!--
 **mofeejegi/mofeejegi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
