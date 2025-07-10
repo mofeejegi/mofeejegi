@@ -1,4 +1,7 @@
 ## Hi there 👋, I'm Mofe Ejegi
+
+[![Visitors Count](https://komarev.com/ghpvc/?username=mofeejegi&label=Profile%20views&color=f58200&style=flat)]()
+
 ### My Specialties are Kotlin, Android, KMP and Compose 
 ### Building mobile apps since 2014 🚀
 
