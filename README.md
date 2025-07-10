@@ -10,9 +10,13 @@
 <a href="https://linkedin.com/in/mofeejegi" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mofeejegi" height="40" style="max-width: 100%;"></a>&nbsp;
 <a href="https://medium.com/@mofeejegi" rel="nofollow"><img align="center" src="https://github.com/user-attachments/assets/5ac82d37-a9ed-48cd-b88e-a5bccc547489" alt="@mofeejegi" height="40" style="max-width: 100%;"></a>
 </p>
-<br/><br/>
+<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mofeejegi)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="left">Github Stats:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mofeejegi&show_icons=true&locale=en&layout=donut" alt="mofeejegi" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mofeejegi&show_icons=true&locale=en&rank_icon=github&show=prs_merged_percentage" alt="mofeejegi" /></p>
+<br/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mofeejegi&rank=-?)](https://github.com/ryo-ma/github-profile-trophy) 
 
@@ -20,7 +24,7 @@
 **mofeejegi/mofeejegi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mofeejegi)](https://github.com/anuraghazra/github-readme-stats)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
