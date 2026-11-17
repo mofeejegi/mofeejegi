@@ -15,14 +15,6 @@
 </p>
 <br/>
 
-<h3 align="left">Github Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mofeejegi&show_icons=true&locale=en&layout=donut" alt="mofeejegi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mofeejegi&show_icons=true&locale=en&rank_icon=github&show=prs_merged_percentage" alt="mofeejegi" /></p>
-<br/>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mofeejegi&rank=-?)](https://github.com/ryo-ma/github-profile-trophy) 
-
 <!--
 **mofeejegi/mofeejegi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
